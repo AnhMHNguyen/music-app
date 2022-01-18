@@ -23,7 +23,7 @@
         placeholder="Password" />
       <ErrorMessage class="text-red-600" name="password" />
     </div>
-    <div class="mb-3">
+    <div class="mb-4">
       <p class="text-red-500 font-bold">Testing Email and Password</p>
       <p class="text-red-500">Email: test@test2.com</p>
       <p class="text-red-500">Password: test123</p>
