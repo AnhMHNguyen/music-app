@@ -23,6 +23,11 @@
         placeholder="Password" />
       <ErrorMessage class="text-red-600" name="password" />
     </div>
+    <div class="mb-3">
+      <p class="text-red-500 font-bold">Testing Email and Password</p>
+      <p class="text-red-500">Email: test@test2.com</p>
+      <p class="text-red-500">Password: test123</p>
+    </div>
     <button type="submit" :disabled="login_in_submission"
       class="block w-full bg-purple-600 text-white py-1.5 px-3 rounded transition
         hover:bg-purple-700">
